@@ -60,7 +60,7 @@
         < цифра >
           < figcaption >
               < HREF = " foto.html " > 
-                   < IMG  класс = " фото " ЦСИ =" -onDa_45iiI.jpg " > < бр > < бр > < бр > < бр >
+                   < IMG  класс = " фото " ЦСИ ="https://user-images.githubusercontent.com/62559922/77340939-0b68b480-6d3f-11ea-911b-d59b268104a6.jpg " > < бр > < бр > < бр > < бр >
               </ a >     
           </ figcaption >
         </ figure >
@@ -88,7 +88,7 @@
         < цифра >
           < figcaption >
               < HREF = " foto.html " > 
-                   < IMG  SRC = " -onDa_45iiI.jpg " > < бр > < бр >
+                   < IMG  SRC = "https://user-images.githubusercontent.com/62559922/77340939-0b68b480-6d3f-11ea-911b-d59b268104a6.jpg" > < бр > < бр >
               </ a >     
           </ figcaption >
         </ figure >

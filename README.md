@@ -88,7 +88,7 @@
         < цифра >
           < figcaption >
               < HREF = " foto.html " > 
-                   < IMG  SRC = "https://user-images.githubusercontent.com/62559922/77340939-0b68b480-6d3f-11ea-911b-d59b268104a6.jpg" > < бр > < бр >
+                   < IMG  SRC = "https://user-images.githubusercontent.com/62559922/77343730-3bb25200-6d43-11ea-9205-e0bbf9d6cb74.jpg" > < бр > < бр >
               </ a >     
           </ figcaption >
         </ figure >

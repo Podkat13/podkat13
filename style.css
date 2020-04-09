@@ -50,6 +50,13 @@ a {
 	text-decoration: none;
 }
 
+button {
+	font-size: 25px;
+	margin-top: 5px;
+	margin-left: 1000px;
+	margin-right: 20px;
+}
+
 .foto {
 	border-radius: 5%;
 }

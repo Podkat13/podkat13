@@ -1,0 +1,42 @@
+.blog {
+	text-align: center;
+	vertical-align: top;
+	font-size: 30px;
+	margin-top: 20px;
+	background-color: rgba(68, 112, 196, 0.7);
+  	border: 5px solid #2d508f;
+  	color: #32FF00;
+ }
+
+ h3 {
+ 	text-align: center;
+ }
+
+ p{
+ 	text-align: center;
+ }
+
+ img {
+ 	margin-left: 350px;
+ }
+
+.text {
+ 	padding: 5px;
+	margin-left: center;
+ 	background-color: #fafaff;
+  	border: 1px solid #c6c4f4;
+ 	border-radius: 4px;
+  	color: #3632ad;
+ 	font-family: "Courier New", "Courier", monospace;
+ }
+
+ .home {
+ 	text-align: center;
+ 	padding: 5px;
+	margin-left: center;
+ 	background-color: #fafaff;
+  	border: 1px solid #c6c4f4;
+ 	border-radius: 4px;
+  	color: #3632ad;
+ 	font-family: "Courier New", "Courier", monospace;
+ }
